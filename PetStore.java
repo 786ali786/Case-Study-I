@@ -5,7 +5,7 @@ public static void main(String[] args)
 
 {
 
-System.out.println("New change for release v1.2";)
+System.out.println("Again New One Release v 2.0");
 System.out.println("/pet/{petId}/uploadImage");
 
 System.out.println("/pet");
