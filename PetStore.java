@@ -10,8 +10,7 @@ System.out.println("New change for release v1.2";)
 =======
 System.out.println("Full New One Release v 2.2");
 >>>>>>> 421d9da58a628615f4bcd4cb0d35e540560fee62
-System.out.println("/pet/{petId}/uploadImage");
-
+System.out.println("/pet/{petId}/uploadImage")
 System.out.println("/pet");
 
 System.out.println("/pet");
